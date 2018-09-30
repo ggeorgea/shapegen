@@ -7,4 +7,5 @@ including polynomial splines, image characteristics, image part recombination an
 TODO: incorporate ML methods for generation of image parts and combination
 
 ![A](Capture1.PNG)
+
 ![A](Capture2.PNG)
